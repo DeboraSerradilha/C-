@@ -1,0 +1,14 @@
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\bin\Debug\net8.0\If.exe
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\bin\Debug\net8.0\If.deps.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\bin\Debug\net8.0\If.runtimeconfig.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\bin\Debug\net8.0\If.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\bin\Debug\net8.0\If.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.AssemblyInfoInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.AssemblyInfo.cs
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.csproj.CoreCompileInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\refint\If.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\If.genruntimeconfig.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If\obj\Debug\net8.0\ref\If.dll

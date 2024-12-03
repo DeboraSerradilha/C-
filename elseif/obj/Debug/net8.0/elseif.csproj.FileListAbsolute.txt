@@ -1,0 +1,14 @@
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\bin\Debug\net8.0\elseif.exe
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\bin\Debug\net8.0\elseif.deps.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\bin\Debug\net8.0\elseif.runtimeconfig.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\bin\Debug\net8.0\elseif.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\bin\Debug\net8.0\elseif.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.AssemblyInfoInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.AssemblyInfo.cs
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.csproj.CoreCompileInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\refint\elseif.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\elseif.genruntimeconfig.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\elseif\obj\Debug\net8.0\ref\elseif.dll

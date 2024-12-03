@@ -1,0 +1,14 @@
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.AssemblyInfoInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.AssemblyInfo.cs
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\bin\Debug\net8.0\If_and_Switch.exe
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\bin\Debug\net8.0\If_and_Switch.deps.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\bin\Debug\net8.0\If_and_Switch.runtimeconfig.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\bin\Debug\net8.0\If_and_Switch.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\bin\Debug\net8.0\If_and_Switch.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\refint\If_and_Switch.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\If_and_Switch.genruntimeconfig.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\If_and_Switch\obj\Debug\net8.0\ref\If_and_Switch.dll

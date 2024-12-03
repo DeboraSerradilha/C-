@@ -1,0 +1,14 @@
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\bin\Debug\net8.0\Array.exe
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\bin\Debug\net8.0\Array.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\Debsosas\Documents\VS Code\c#Nanodegree\Array\obj\Debug\net8.0\ref\Array.dll
